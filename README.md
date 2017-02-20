@@ -93,7 +93,7 @@ The order of the chapters might change, that's why we don't number them here.
 
 You need the following Perl modules installed to build the book:
 
-  * Pod::PsuedoPod::HTML
+  * Pod::PseudoPod::HTML
 
 
 ### Build
